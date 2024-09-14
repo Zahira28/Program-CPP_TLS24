@@ -1,2 +1,10 @@
-Program UserGreeting ini dibuat untuk menentukan sapaan kepada seseorang berdasarkan usia, gender, dan waktu.
-Program ini mengumpulkan informasi pengguna, menghitung usia pengguna, dan memberi sapaan tertentu sesuai informasi yang mereka input.
+Program UserGreeting ini dibuat untuk menentukan sapaan kepada seseorang berdasarkan usia, gender, dan waktu. Program ini mengumpulkan informasi pengguna, menghitung usia pengguna, dan memberi sapaan tertentu sesuai informasi yang mereka input.
+
+## Fungsi
+- Menghitung usia berdasarkan tanggal lahir.
+- Memberikan sapaan sesuai waktu.
+- Memberikan panggilan kepada pengguna sesuai gender dan usia.
+
+## Penggunaan
+1. **Masukkan nama, gender (M/F), dan tanggal lahir**
+2. **Program ini akan menghitung usia Anda dan memberikan sapaan berdasarkan waktu dan data yang Anda masukkan.**
