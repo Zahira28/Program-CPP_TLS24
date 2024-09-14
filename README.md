@@ -1,0 +1,1 @@
+Program sederhana C++ ini dibuat untuk menentukan sapaan kepada seseorang berdasarkan usia, gender, dan waktu. Program ini mengumpulkan informasi pengguna, menghitung usia pengguna, dan memberi sapaan tertentu sesuai informasi yang mereka input.
